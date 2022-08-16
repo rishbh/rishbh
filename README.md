@@ -18,7 +18,7 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 
 ## Projects Completed:
 
-| Machine/Deep Learning | 
+| Projects | 
 | --------------------- | 
 | [Food Ordering App](https://github.com/rishbh/pizzaapp)  | 
 | [Google Docs Clone](https://github.com/rishbh/googledoc)  | 

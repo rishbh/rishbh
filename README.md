@@ -1,32 +1,14 @@
- <img src="https://github.com/G0rav/g0rav/blob/main/assets/Title.png" alt="Title image">
+ <img src="https://raw.githubusercontent.com/rishbh/rishbh/main/Title.png" alt="Title image">
  
 
 A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind** using Artificial Intelligence.
 
 <p align='center'>
-  <a href="[https://www.linkedin.com/in/gaurav2022/](https://www.linkedin.com/in/rishabh2002/)">
+  <a href="[https://www.linkedin.com/in/rishabh2002/](https://www.linkedin.com/in/rishabh2002/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin image">
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/rishbh/rishbh"></a>
-</p>
-
-<!--
-**G0rav/g0rav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🔭 I’m currently working on:  **Java Development**
 - 🌱 I’m currently learning:  Machine Learning.
@@ -47,4 +29,4 @@ Here are some ideas to get you started:
 | [Fake News Detection](https://github.com/G0rav/fake_news_detection) |  |  |
 
 <br>
-<img src= 'https://github-readme-stats.vercel.app/api?username=g0rav&show_icons=true&theme=algolia&hide=prs,contribs'>
+<img src= 'https://github-readme-stats.vercel.app/api?username=rishbh&show_icons=true&theme=algolia&hide=prs,contribs'>

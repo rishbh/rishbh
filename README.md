@@ -7,7 +7,11 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
   <a href="[https://leetcode.com/rishbhjain/](https://leetcode.com/rishbhjain/)">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode image">
   </a>
-  
+  <br>
+  <a href="[https://auth.geeksforgeeks.org/user/jainrishb/profile](https://auth.geeksforgeeks.org/user/jainrishb/profile)">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks image">
+  </a>
+  <br>
   <a href="[https://www.linkedin.com/in/rishabh2002/](https://www.linkedin.com/in/rishabh2002/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin image">
   </a>

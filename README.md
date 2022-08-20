@@ -7,11 +7,11 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
   <a href="[https://leetcode.com/rishbhjain/](https://leetcode.com/rishbhjain/)">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode image">
   </a>
-  <br>
+  &nbsp;
   <a href="[https://auth.geeksforgeeks.org/user/jainrishb/profile](https://auth.geeksforgeeks.org/user/jainrishb/profile)">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks image">
   </a>
-  <br>
+  &nbsp;
   <a href="[https://www.linkedin.com/in/rishabh2002/](https://www.linkedin.com/in/rishabh2002/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin image">
   </a>
@@ -23,6 +23,15 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 - 💬 Ask me about: Software Development, Java, Data Science, General Knowledge.
 - 📫 You can reach me at:   [r.jain79883@gmail.com](mailto:r.jain79883@gmail.com)
 - Resume : [Resume](https://github.com/rishbh/rishbh/blob/main/RishabhJain.pdf)
+
+
+## Achievements:
+
+| Achievements | 
+| --------------------- | 
+| [Solved 350+ questions on Leetcode](https://leetcode.com/rishbhjain/)  | 
+| [Solved 200+ questions on Geeks for Geeks](https://auth.geeksforgeeks.org/user/jainrishb/profile)  | 
+
 
 ## Projects Completed:
 

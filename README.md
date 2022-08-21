@@ -22,7 +22,7 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 - 🌱 I’m currently learning:  Machine Learning.
 - 💬 Ask me about: Software Development, Java, Data Science, General Knowledge.
 - 📫 You can reach me at:   [r.jain79883@gmail.com](mailto:r.jain79883@gmail.com)
-- Resume : [My Resume](https://github.com/rishbh/rishbh/blob/main/RishabhJain%20Resume.pdf)
+- Resume : [My Resume](https://github.com/rishbh/rishbh/blob/main/Rishabh%20Jain%20Resume.pdf)
 
 
 ## Achievements:

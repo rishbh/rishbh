@@ -29,7 +29,7 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 
 | Achievements | 
 | --------------------- | 
-| [Solved 350+ questions on Leetcode](https://leetcode.com/rishbhjain/)  | 
+| [Solved 400+ problems on Leetcode](https://leetcode.com/rishbhjain/)  | 
 | [Solved 200+ questions on Geeks for Geeks](https://auth.geeksforgeeks.org/user/jainrishb/profile)  | 
 
 
@@ -44,3 +44,7 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 
 <br>
 <img src= 'https://github-readme-stats.vercel.app/api?username=rishbh&show_icons=true&theme=algolia&hide=prs,contribs'>
+
+<a href="https://github.com/rishbh/rishbh">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=rishbhjain&theme=dark" width="400"/>
+</a>

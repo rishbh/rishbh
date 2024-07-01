@@ -31,7 +31,7 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 
 - 💬 Ask me about: C++, Java, Docker, Software Development, Java, Data Science, General Knowledge.
 - 📫 You can reach me at:   [r.jain79883@gmail.com](mailto:r.jain79883@gmail.com)
-- Resume : [My Resume](https://github.com/rishbh/rishbh/blob/main/Rishabh%20Jain%20Resume.pdf)
+- Resume : [My Resume]([https://github.com/rishbh/rishbh/blob/main/Rishabh%20Jain%20Resume.pdf](https://drive.google.com/file/d/1sbg11U2OC6_rFpYs3vgLOBmpCRWIdSkP/view))
 
 
 ## Achievements:

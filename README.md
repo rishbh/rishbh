@@ -1,7 +1,7 @@
  <img src="https://raw.githubusercontent.com/rishbh/rishbh/main/Title.png" alt="Title image">
  
 
-A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind** using Artificial Intelligence.
+A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind** .
 
 <p align='center'>
   <a href="https://leetcode.com/rishbhjain/">
@@ -20,15 +20,16 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 ## Leetcode Stat:
 
 <a href="https://github.com/rishbh/rishbh">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=rishbhjain&theme=dark" width="400"/>
+  <img alt="LeetCode Stat Card" src="https://leetcode.card.workers.dev/rishbhjain?theme=default&font=baloo&extension=null" width="400"/>
+
+      
 </a>
 
 </br>
+</br>
 
 
-- 🔭 I’m currently working on:  **Java Development**
-- 🌱 I’m currently learning:  Machine Learning.
-- 💬 Ask me about: Software Development, Java, Data Science, General Knowledge.
+- 💬 Ask me about: C++, Java, Docker, Software Development, Java, Data Science, General Knowledge.
 - 📫 You can reach me at:   [r.jain79883@gmail.com](mailto:r.jain79883@gmail.com)
 - Resume : [My Resume](https://github.com/rishbh/rishbh/blob/main/Rishabh%20Jain%20Resume.pdf)
 
@@ -37,7 +38,9 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 
 | Achievements | 
 | --------------------- | 
-| [Solved 400+ problems on Leetcode](https://leetcode.com/rishbhjain/)  | 
+| [Solved 900+ problems on Leetcode](https://leetcode.com/rishbhjain/)  | 
+| Ranked 302 in Codechef Starters Contest among 10k participants |
+| Ranked 2630 in LeetcodeWeekly Contest among 20k participants  |
 | [Solved 200+ questions on Geeks for Geeks](https://auth.geeksforgeeks.org/user/jainrishb/profile)  | 
 
 

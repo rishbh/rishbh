@@ -15,6 +15,9 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
   <a href="https://www.linkedin.com/in/rishabh2002/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin image">
   </a>
+ <a href="[https://www.linkedin.com/in/rishabh2002/](https://drive.google.com/file/d/1sbg11U2OC6_rFpYs3vgLOBmpCRWIdSkP/view?usp=sharing)">
+    Resume
+  </a>
 </p>
 
 ## Leetcode Stat:
@@ -31,7 +34,7 @@ A curious Engineering enthusiast having Goal to contribute in **Humanity and Man
 
 - 💬 Ask me about: C++, Java, Docker, Software Development, Java, Data Science, General Knowledge.
 - 📫 You can reach me at:   [r.jain79883@gmail.com](mailto:r.jain79883@gmail.com)
-- Resume : [My Resume]([https://github.com/rishbh/rishbh/blob/main/Rishabh%20Jain%20Resume.pdf](https://drive.google.com/file/d/1sbg11U2OC6_rFpYs3vgLOBmpCRWIdSkP/view))
+- Resume : [My Resume](https://drive.google.com/file/d/1sbg11U2OC6_rFpYs3vgLOBmpCRWIdSkP/view?usp=sharing)
 
 
 ## Achievements:

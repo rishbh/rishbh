@@ -2,11 +2,12 @@
  
 
 A curious Engineering enthusiast having Goal to contribute in **Humanity and Mankind** .
-
-<p align='center'>
-  <a href="https://leetcode.com/rishbhjain/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode image">
+<a href="https://leetcode.com/rishbhjain/">
+    <img src="https://leetcard.jacoblin.cool/rishbhjain?ext=heatmap" alt="Leetcode image">
   </a>
+  
+<p align='center'>
+  
   &nbsp;
   <a href="https://auth.geeksforgeeks.org/user/jainrishb/profile">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="Geeks for Geeks image">
